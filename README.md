@@ -8,6 +8,6 @@ The **Nelson-Atkins Museum of Art** is an art museum in Kansas City, Missouri, k
 ### Directions to Museum
 Kansas City Airport is the nearest airport to the museum.
 <br>1.Get on I-29 S/US-71 S in May Township from NW 120th St
-2.Continue on US-71 to Kaw Township.
-3.Take the exit toward Emanuel Cleaver II Blvd/Swope Pkwy from US-71 S
-4.Take Emanuel Cleaver II Blvd. to Oak St
+<br>2.Continue on US-71 to Kaw Township.
+<br>3.Take the exit toward Emanuel Cleaver II Blvd/Swope Pkwy from US-71 S
+<br>4.Take Emanuel Cleaver II Blvd. to Oak St
