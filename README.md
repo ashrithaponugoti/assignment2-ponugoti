@@ -11,3 +11,10 @@ Kansas City Airport is the nearest airport to the museum.
 <br>2.Continue on US-71 to Kaw Township.
 <br>3.Take the exit toward Emanuel Cleaver II Blvd/Swope Pkwy from US-71 S
 <br>4.Take Emanuel Cleaver II Blvd. to Oak St
+
+### Recommended Places to visit
+There are some really good places that I suggest to visit.They are:
+*Kansas city Art Institute
+<br>*Segway Bike and Stroll
+<br>*Country club plaza
+<br>*Loose Park
