@@ -19,7 +19,7 @@ There are some really good places that I suggest to visit.They are:
 <br>*Segway Bike and Stroll
 <br>*Country club plaza
 <br>*Loose Park
-<br>Link to AboutMe file <https://github.com/ashrithaponugoti/assignment2-ponugoti/blob/main/AboutMe.md>
+<br>Link to AboutMe file:<https://github.com/ashrithaponugoti/assignment2-ponugoti/blob/main/AboutMe.md>
 ********************************************************************************************************************
 
 ### Best cities to visit
@@ -41,3 +41,29 @@ The below table gives details about four beautiful cities that you must visit.Th
 
 >Taking care of myself doesn't mean 'me first.' It means 'me, too'.
 >>*-L.R. Knost*
+
+********************************************************************************************************************
+
+### Code Snippet
+SAS function for using power in stack overflow
+>nbr_squared = power(nbr, 2);
+<br>nbr_cubed = power(nbr, 3);
+<br>E_to_the_power_2 = power(constant('E'),2);
+
+<br>Here is the link for stackoverflow:<https://stackoverflow.com/questions/1600149/sas-function-for-using-power-exponential>
+
+Snippet from css-tricks<br>
+``` 
+@function pow($number, $exponent) {
+  $value: 1;
+
+  @if $exponent > 0 {
+    @for $i from 1 through $exponent {
+      $value: $value * $number;
+    }
+  }
+
+  @return $value;
+}
+```
+Here is the link for snippet source:<https://css-tricks.com/snippets/sass/power-function>
