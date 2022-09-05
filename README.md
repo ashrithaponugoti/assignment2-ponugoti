@@ -19,3 +19,16 @@ There are some really good places that I suggest to visit.They are:
 <br>*Country club plaza
 <br>*Loose Park
 <br>Link to AboutMe file <https://github.com/ashrithaponugoti/assignment2-ponugoti/blob/main/AboutMe.md>
+--------------------------------------------------------------------------------------------------------------------
+
+### Best cities to visit
+The below table gives details about four beautiful cities that you must visit.The details include city names along with important places to visit in that cities and amount of time required to spend in that important location.
+
+|-----------------|----------------------------------|---------------------------------------|
+|Name of city     |          Important location      |         Time to be spent in Imp loc   |
+|-----------------|----------------------------------|---------------------------------------|
+|1.New york       |          Times Square            |                   2 hrs               | 
+|2.Chicago        |          Millenium Park          |                   1 hr                |
+|3.Santa Fe       |          Santa Fe Plaza          |                   3 hrs               |  
+|4.Charleston     |          Waterfront Park         |                   1-2 hrs             |
+|-----------------|----------------------------------|---------------------------------------|
