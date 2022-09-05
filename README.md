@@ -11,6 +11,7 @@ Kansas City Airport is the nearest airport to the museum.
 <br>2.Continue on US-71 to Kaw Township.
 <br>3.Take the exit toward Emanuel Cleaver II Blvd/Swope Pkwy from US-71 S
 <br>4.Take Emanuel Cleaver II Blvd. to Oak St
+********************************************************************************************************************
 
 ### Recommended Places to visit
 There are some really good places that I suggest to visit.They are:
@@ -19,7 +20,7 @@ There are some really good places that I suggest to visit.They are:
 <br>*Country club plaza
 <br>*Loose Park
 <br>Link to AboutMe file <https://github.com/ashrithaponugoti/assignment2-ponugoti/blob/main/AboutMe.md>
---------------------------------------------------------------------------------------------------------------------
+********************************************************************************************************************
 
 ### Best cities to visit
 The below table gives details about four beautiful cities that you must visit.The details include city names along with important places to visit in that cities and amount of time required to spend in that important location.
@@ -32,5 +33,11 @@ The below table gives details about four beautiful cities that you must visit.Th
 |3.Santa Fe       |          Santa Fe Plaza          |                   3 hrs               |  
 |4.Charleston     |          Waterfront Park         |                   1-2 hrs             |
 
+********************************************************************************************************************
 
+### Quotes
+>Caring for myself is not self-indulgence, it is self-preservation, and that is an act of political warfare.
+>>*-audre lorde*<br>
 
+>Taking care of myself doesn't mean 'me first.' It means 'me, too'.
+>>*-L.R. Knost*
