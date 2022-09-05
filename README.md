@@ -45,25 +45,18 @@ The below table gives details about four beautiful cities that you must visit.Th
 ********************************************************************************************************************
 
 ### Code Snippet
-SAS function for using power in stack overflow
->nbr_squared = power(nbr, 2);
-<br>nbr_cubed = power(nbr, 3);
-<br>E_to_the_power_2 = power(constant('E'),2);
+>How to use map-deep-get in SAAS 
 
-<br>Here is the link for stackoverflow:<https://stackoverflow.com/questions/1600149/sas-function-for-using-power-exponential>
+<br>Here is the link for stack overflow:
+<br><https://stackoverflow.com/questions/66003935/how-to-use-map-deep-get-in-sass>
 
 Snippet from css-tricks<br>
 ``` 
-@function pow($number, $exponent) {
-  $value: 1;
-
-  @if $exponent > 0 {
-    @for $i from 1 through $exponent {
-      $value: $value * $number;
+@function map-deep-get($map, $keys...) {
+    @each $key in $keys {
+        $map: map-get($map, $key);
     }
-  }
-
-  @return $value;
+    @return $map;
 }
 ```
-Here is the link for snippet source:<https://css-tricks.com/snippets/sass/power-function>
+Here is the link for snippet source:<https://css-tricks.com/snippets/sass/deep-getset-maps/>
